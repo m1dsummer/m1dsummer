@@ -17,4 +17,5 @@
 ![](https://img.shields.io/badge/-Python-%23C84B31?logo=Python&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-Docker-%237D5A50?logo=Docker&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-Vue-%235AA897?logo=Vue.js&style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/-Java-red?logo=Java&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-React-blue?logo=React&style=for-the-badge&logoColor=white)
