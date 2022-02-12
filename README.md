@@ -19,3 +19,12 @@
 ![](https://img.shields.io/badge/-Vue-%235AA897?logo=Vue.js&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-Java-red?logo=Java&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-React-blue?logo=React&style=for-the-badge&logoColor=white)
+
+## My Records:
+
+### Weread
+![](http://101.34.253.123/GitHubPoster/weread.svg)
+
+
+### English words:
+![](http://101.34.253.123/GitHubPoster/bbdc.svg)
