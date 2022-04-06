@@ -6,7 +6,7 @@
 - 🐭 working with Golang.
 - 🌱 focus on Web security.
 - 👯 @[Vidar-Team](https://vidar.club)
-- 📩 mail me: [m1dsummer@aliyun.com](mailto:m1dsummer@aliyun.com)
+- 📩 mail me: [m1dsummer@aliyun.com](mailto:i@summ3r.top)
 - 🏠 visit my blog: [https://blog.summ3r.top](https://blog.summ3r.top).
 
 
