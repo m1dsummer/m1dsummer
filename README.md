@@ -3,11 +3,11 @@
 ![](https://github-readme-stats.vercel.app/api?username=m1dsummer&show_icons=true&hide_border=true&&count_private=true")
 
 ## About me
-- 🐭 working with Golang.
-- 🌱 focus on Web security.
-- 👯 @[Vidar-Team](https://vidar.club)
-- 📩 mail me: [i@summ3r.top](mailto:i@summ3r.top)
-- 🏠 visit my blog: [https://blog.summ3r.top](https://blog.summ3r.top).
+- 🐭 Working with Golang/Rust.
+- 🌱 Focus on Cybersecurity.
+- 👯 Member of [Vidar-Team](https://vidar.club)
+- 📩 Mail me: [i@summ3r.top](mailto:i@summ3r.top)
+- 🏠 Visit my blog: [https://blog.summ3r.top](https://blog.summ3r.top)(?
 
 
 ## My skills:
@@ -18,6 +18,6 @@
 ![](https://img.shields.io/badge/-Docker-%237D5A50?logo=Docker&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-Vue-%235AA897?logo=Vue.js&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-Java-red?logo=Java&style=for-the-badge&logoColor=white)
-![](https://img.shields.io/badge/-React-blue?logo=React&style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/-Rust-blue?logo=Rust&style=for-the-badge&logoColor=white)
 
 
